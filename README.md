@@ -2,10 +2,9 @@
 
 ## My hobbies and interests!!
 
-- 🔭 Gaming.
+- 👹 Gaming, Watching and Learning.
 - 🌱 I’m currently learning everything 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Learn more
+- 🥅 2023 Goals: Learn new language
 - ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:

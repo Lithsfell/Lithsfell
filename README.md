@@ -12,19 +12,14 @@
 
 [![website](./img/globe-light.svg)](https://Lithsfell.app#gh-light-mode-only)
 [![website](./img/globe-dark.svg)](https://Lithsfell.app#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/twitter-light.svg)](https://twitter.com/atillacanalpan#gh-light-mode-only)
 [![website](./img/twitter-dark.svg)](https://twitter.com/atillacanalpan#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/linkedin-light.svg)](https://www.linkedin.com/in/atilla-can-alpan-91755988/#gh-light-mode-only)
 [![website](./img/linkedin-dark.svg)](https://www.linkedin.com/in/atilla-can-alpan-91755988/#gh-dark-mode-only)
-&nbsp;&nbsp;
 [![website](./img/instagram-light.svg)](https://instagram.com/atillacanalpan#gh-light-mode-only)
 [![website](./img/instagram-dark.svg)](https://instagram.com/atillacanalpan#gh-dark-mode-only)
-&nbsp;&nbsp;
 
 ### Languages and Tools:
-&nbsp;&nbsp;
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" style="padding-right:10px;" />
 <img align="left" alt="HTML5" width="26px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" style="padding-right:10px;" />

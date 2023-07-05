@@ -5,7 +5,6 @@
 - 👹 Gaming, Watching and Learning.
 - 🌱 I’m currently learning everything 🤣
 - 🥅 2023 Goals: Learn new language
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
 ### Connect with me:
 
